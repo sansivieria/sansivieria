@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sansivieria
-- 👀 I’m interested in ethical hacking!
-- 🌱 I’m currently learning Django :)
-- 💞️ I’m looking to collaborate on AR Development!
+- 👀 I’m interested in incorporating Augmented Reality into front end development>
+- 🌱 I’m currently learning Django, Unity, and Svelte :)
+- 💞️ I'm about to start 100 days of code!
 - 📫 How to reach me foresttraylor@gmail.com
 
 <!---
