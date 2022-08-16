@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sansivieria
-- 👀 I’m interested in incorporating Augmented Reality into front end development>
-- 🌱 I’m currently learning Django, Unity, and Svelte :)
-- 💞️ I'm about to start 100 days of code!
-- 📫 How to reach me foresttraylor@gmail.com
+- 👋 *Hi, I’m @sansivieria*
+- 👀 *I’m currently unemployed because Corporate America hates everyone *
+- 🌱 *I’m currently learning how to live inside an SUV with my cat :3*
+- 💞️ *I am pretty sure I won't ever find a job coding again.*
+- 📫 *thanks for stopping by, email is closed, try linkedin*
 
 <!---
 sansivieria/sansivieria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
