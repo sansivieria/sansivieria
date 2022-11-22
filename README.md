@@ -1,8 +1,8 @@
 - 👋 *Hi, I’m @sansivieria*
-- 👀 *I’m currently unemployed because Corporate America hates everyone*
-- 🌱 *I’m currently learning how to live inside an SUV with my cat :3*
-- 💞️ *I am pretty sure I won't ever find a job coding again.*
-- 📫 *thanks for stopping by, email is closed, try linkedin*
+- 👀 *I’m currently working freelance because of touring!*
+- 🌱 *I’m currently learning how to NextJS*
+- 💞️ *I am pretty sure I want more Sugar Free Red Bull*
+- 📫 *thanks for stopping by, my work email is grivofan@gmail.com*
 
 <!---
 sansivieria/sansivieria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
